@@ -1,0 +1,9 @@
+name: Regression-with-an-Insurance-Dataset
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.3
+  - pandas
+  - numpy
+  - numba
