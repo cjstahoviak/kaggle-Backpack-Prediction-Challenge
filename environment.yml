@@ -1,4 +1,4 @@
-name: Regression-with-an-Insurance-Dataset
+name: kaggle-Backpack-Prediction-Challenge
 channels:
   - defaults
   - conda-forge
